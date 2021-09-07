@@ -2,6 +2,7 @@
 
 
 Watch Video How to run code link:
+https://youtu.be/vzbdRN3M-94
 
 
 Here is the weights file:
